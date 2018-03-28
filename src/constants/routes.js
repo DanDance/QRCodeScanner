@@ -1,0 +1,5 @@
+export const SHIPMENT_LIST = 'SHIPMENT_LIST'
+export const QR_SCANNER = 'QR_SCANNER'
+export const PDF_VIEWER = 'PDF_VIEWER'
+export const INPUT_LIST = 'INPUT_LIST'
+export const OUTPUT_LIST = 'OUTPUT_LIST'

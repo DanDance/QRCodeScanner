@@ -1,0 +1,5 @@
+export const UID = 'Заказ-марка'
+export const ORDER = 'Заказ'
+export const WEIGHT = 'Вес 1шт'
+export const MARK = 'Марка'
+export const FILE = 'Имя файла'

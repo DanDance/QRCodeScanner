@@ -1,0 +1,16 @@
+# editorconfig.org
+# top-most EditorConfig file
+root = true
+[*]
+end_of_line = lf
+insert_final_newline = true
+[*.{js,coffee,py,yaml,raml}]
+charset = utf-8
+indent_style = space
+indent_size = 2
+[Makefile]
+indent_style = tab
+# matches the exact files
+[{package.json,.travis.yml}]
+indent_style = space
+indent_size = 2
